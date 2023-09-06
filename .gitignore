@@ -1,0 +1,5 @@
+# Ignore IPython Notebook files
+*.ipynb
+
+# Ignore IPython Notebook checkpoints directory
+.ipynb_checkpoints/
